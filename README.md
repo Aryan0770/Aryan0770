@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/16Vo8QHecrlDJJZcEmaaru-2Y6uz7Pa54/view?usp=sharing](https://drive.google.com/file/d/16Vo8QHecrlDJJZcEmaaru-2Y6uz7Pa54/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/16Vo8QHecrlDJJZcEmaaru-2Y6uz7Pa54/view?usp=sharing]([https://drive.google.com/file/d/16Vo8QHecrlDJJZcEmaaru-2Y6uz7Pa54/view?usp=sharing])
 
 - ⚡ Fun fact **I crack jokes more than exams :)**
 
